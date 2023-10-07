@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "id_wisata": 1,
+            "nama_wisata": "Wisata 1",
+            "alamat": "Alamat Wisata 1",
+            "longitude": 109.12345,
+            "latitude": -7.67890
+        },
+        {
+            "id_wisata": 2,
+            "nama_wisata": "Wisata 2",
+            "alamat": "Alamat Wisata 2",
+            "longitude": 109.54321,
+            "latitude": -7.98765
+        }
+        
+    ]
+}
